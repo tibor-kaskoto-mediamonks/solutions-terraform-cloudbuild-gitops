@@ -92,4 +92,4 @@ steps:
 # [END tf-apply]     
 
 options:
-  logging: NONE
+  logging: enum(LoggingMode)
