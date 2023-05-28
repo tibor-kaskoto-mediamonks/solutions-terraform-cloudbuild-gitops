@@ -92,4 +92,4 @@ steps:
 # [END tf-apply]     
 
 options:
-  logging: enum(LoggingMode)
+  logging: CLOUD_LOGGING_ONLY
